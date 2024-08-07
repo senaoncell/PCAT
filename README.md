@@ -1,11 +1,17 @@
 CONSOLE OPERATIONS
 
 npm install prettier -D --save-exact
+
 npm i express --save
+
 npm install --save-dev nodemon
+
 npm i ejs
+
 npm i mongoose
+
 npm i express-fileupload
+
 npm i method-override
 
 
@@ -19,4 +25,5 @@ Try "127.0.0.1:3000" instead of "localhost".
 VERSION CHANGES
 
 In version 8.5.2 of mongoose, "findByIdAndDelete" started to be used instead of "findByIdAndRemove".
+
 After node js 16.0.0 version, "node:fs" and "node:path" started to be used.
