@@ -1,5 +1,7 @@
 CONSOLE OPERATIONS
 
+npm init
+
 npm install prettier -D --save-exact
 
 npm i express --save
@@ -14,6 +16,7 @@ npm i express-fileupload
 
 npm i method-override
 
+npm start
 
 SERVER OPERATIONS
 
